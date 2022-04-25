@@ -1,0 +1,14 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\bin\Debug\celciusFromFarhreneit.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\bin\Debug\celciusFromFarhreneit.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\bin\Debug\celciusFromFarhreneit.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\celciusFromFarhreneit_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\celciusFromFarhreneit_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\celciusFromFarhreneit.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\celciusFromFarhreneit.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\celciusFromFarhreneit.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\celciusFromFarhreneit.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\celciusFromFarhreneit.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\celciusFromFarhreneit\obj\Debug\celciusFromFarhreneit.pdb

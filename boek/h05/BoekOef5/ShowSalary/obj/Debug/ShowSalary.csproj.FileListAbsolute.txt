@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\bin\Debug\ShowSalary.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\bin\Debug\ShowSalary.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\bin\Debug\ShowSalary.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\ShowSalary\obj\Debug\ShowSalary.pdb

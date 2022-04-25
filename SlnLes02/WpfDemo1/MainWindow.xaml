@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfDemo1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfDemo1"
+        mc:Ignorable="d"
+        Title="WPF Content Demo" Height="450" Width="800" Background="#FFC7CEA2">
+    <Grid Background="#FFFFF8AE">
+        <Label x:Name="lbnMessage" Content="---" HorizontalAlignment="Left" Margin="121,38,0,0" VerticalAlignment="Top" Width="179"/>
+        <Rectangle x:Name="rct" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="165,134,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
+        <Slider x:Name="sld" Minimum="10" IsSnapToTickEnabled="True" TickFrequency="10" Maximum="300" Value="50" HorizontalAlignment="Left" Margin="94,262,0,0" VerticalAlignment="Top" Height="26" Width="566" ValueChanged="sld_ValueChanged"/>
+       
+
+
+
+
+
+    </Grid>
+</Window>

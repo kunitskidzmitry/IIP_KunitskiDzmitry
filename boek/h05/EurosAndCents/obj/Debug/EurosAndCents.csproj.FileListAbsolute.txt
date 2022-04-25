@@ -1,0 +1,14 @@
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\bin\Debug\EurosAndCents.exe.config
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\bin\Debug\EurosAndCents.exe
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\bin\Debug\EurosAndCents.pdb
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\EurosAndCents.csproj.AssemblyReference.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\MainWindow.baml
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\App.g.cs
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\EurosAndCents_MarkupCompile.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\EurosAndCents.g.resources
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\EurosAndCents.Properties.Resources.resources
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\EurosAndCents.csproj.GenerateResource.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\EurosAndCents.csproj.CoreCompileInputs.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\EurosAndCents.exe
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\EurosAndCents\obj\Debug\EurosAndCents.pdb

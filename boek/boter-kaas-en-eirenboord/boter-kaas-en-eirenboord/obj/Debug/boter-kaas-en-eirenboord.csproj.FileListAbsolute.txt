@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\bin\Debug\boter-kaas-en-eirenboord.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\bin\Debug\boter-kaas-en-eirenboord.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\bin\Debug\boter-kaas-en-eirenboord.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter-kaas-en-eirenboord.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter-kaas-en-eirenboord_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter-kaas-en-eirenboord_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter-kaas-en-eirenboord.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter_kaas_en_eirenboord.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter-kaas-en-eirenboord.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter-kaas-en-eirenboord.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter-kaas-en-eirenboord.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\boter-kaas-en-eirenboord\obj\Debug\boter-kaas-en-eirenboord.pdb

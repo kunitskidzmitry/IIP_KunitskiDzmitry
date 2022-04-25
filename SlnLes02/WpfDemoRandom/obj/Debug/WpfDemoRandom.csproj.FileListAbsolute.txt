@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\bin\Debug\WpfDemoRandom.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\bin\Debug\WpfDemoRandom.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\bin\Debug\WpfDemoRandom.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\WpfDemoRandom\obj\Debug\WpfDemoRandom.pdb

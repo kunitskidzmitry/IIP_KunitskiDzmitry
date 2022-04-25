@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\bin\Debug\bankrekening.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\bin\Debug\bankrekening.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\bin\Debug\bankrekening.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\bankrekening\obj\Debug\bankrekening.pdb

@@ -1,0 +1,32 @@
+﻿<Window x:Class="frisdrankenAutomaat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:frisdrankenAutomaat"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="imageCoca" Source="img/cola.jpg" HorizontalAlignment="Left" Height="100" Margin="30,27,0,0" VerticalAlignment="Top" Width="100" MouseDown="imageCoca_MouseDown"/>
+        <Image x:Name="imageFanta" Source="img/fanta.png" HorizontalAlignment="Left" Height="100" Margin="30,148,0,0" VerticalAlignment="Top" Width="100" MouseDown="imageFanta_MouseDown"/>
+        <Image x:Name="imageSprite" Source="img/sprite.png" HorizontalAlignment="Left" Height="100" Margin="30,274,0,0" VerticalAlignment="Top" Width="100" MouseDown="imageSprite_MouseDown"/>
+        <Label x:Name="lblColaPrice" Content="" HorizontalAlignment="Left" Margin="161,66,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblFantaPrice" Content="" HorizontalAlignment="Left" Margin="161,183,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblPriceSprite" Content="" HorizontalAlignment="Left" Margin="161,314,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMuntStukken" HorizontalAlignment="Left" Height="23" Margin="526,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="labelMunt" Content="3. Voer je muntstukken in!" HorizontalAlignment="Left" Margin="505,26,0,0" VerticalAlignment="Top" Width="167"/>
+        <Label x:Name="label_Copy" Content="1. Kies je drank!" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Width="167"/>
+        <Button x:Name="btnKlaar" Content="Ok" HorizontalAlignment="Left" Margin="571,80,0,0" VerticalAlignment="Top" Width="75" Click="btnKlaar_Click"/>
+        <Label x:Name="NumberTwoEuro" Content="" HorizontalAlignment="Left" Margin="526,148,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="NumberOneEuro" Content="" HorizontalAlignment="Left" Margin="526,179,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="NumberFiftyCent" Content="" HorizontalAlignment="Left" Margin="526,205,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="NumberTwintyCent" Content="" HorizontalAlignment="Left" Margin="526,231,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="NumberTenCent" Content="" HorizontalAlignment="Left" Margin="526,257,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="NumberfiveCent" Content="" HorizontalAlignment="Left" Margin="526,283,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="NumberTwoyCent" Content="" HorizontalAlignment="Left" Margin="526,309,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="NumberOneCent" Content="" HorizontalAlignment="Left" Margin="526,335,0,0" VerticalAlignment="Top" Width="232"/>
+        <Label x:Name="lblKeuze" Content="" HorizontalAlignment="Left" Margin="259,26,0,0" VerticalAlignment="Top" Width="183"/>
+        <Label x:Name="lblChange" Content="" HorizontalAlignment="Left" Margin="297,372,0,0" VerticalAlignment="Top" Width="193" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

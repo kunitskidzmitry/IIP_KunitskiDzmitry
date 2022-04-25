@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\bin\Debug\hourMinutesSeconds.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\bin\Debug\hourMinutesSeconds.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\bin\Debug\hourMinutesSeconds.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\hourMinutesSeconds\obj\Debug\hourMinutesSeconds.pdb

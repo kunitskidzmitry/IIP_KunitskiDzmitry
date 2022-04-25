@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\bin\Debug\belastingDienst.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\bin\Debug\belastingDienst.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\bin\Debug\belastingDienst.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\belastingDienst\obj\Debug\belastingDienst.pdb

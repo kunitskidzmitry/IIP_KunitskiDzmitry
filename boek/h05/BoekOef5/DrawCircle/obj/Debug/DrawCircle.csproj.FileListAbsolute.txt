@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\bin\Debug\DrawCircle.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\bin\Debug\DrawCircle.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\bin\Debug\DrawCircle.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\BoekOef5\DrawCircle\obj\Debug\DrawCircle.pdb

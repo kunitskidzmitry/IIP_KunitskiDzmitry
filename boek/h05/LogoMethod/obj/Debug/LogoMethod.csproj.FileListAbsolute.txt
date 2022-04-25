@@ -1,0 +1,14 @@
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\bin\Debug\LogoMethod.exe.config
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\bin\Debug\LogoMethod.exe
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\bin\Debug\LogoMethod.pdb
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\LogoMethod.csproj.AssemblyReference.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\MainWindow.baml
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\App.g.cs
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\LogoMethod_MarkupCompile.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\LogoMethod.g.resources
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\LogoMethod.Properties.Resources.resources
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\LogoMethod.csproj.GenerateResource.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\LogoMethod.csproj.CoreCompileInputs.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\LogoMethod.exe
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h05\LogoMethod\obj\Debug\LogoMethod.pdb

@@ -1,0 +1,12 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\bin\Debug\ConsoleDemo1.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\bin\Debug\ConsoleDemo1.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\bin\Debug\ConsoleDemo1.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\obj\Debug\ConsoleDemo1.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\obj\Debug\ConsoleDemo1.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\obj\Debug\ConsoleDemo1.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\obj\Debug\ConsoleDemo1.pdb
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\bin\Debug\EntityFramework.dll
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\bin\Debug\EntityFramework.xml
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\ConsoleDemo1\obj\Debug\ConsoleDemo1.csproj.CopyComplete

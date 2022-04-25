@@ -1,0 +1,14 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\bin\Debug\roosBuild.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\bin\Debug\roosBuild.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\bin\Debug\roosBuild.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\roosBuild_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\roosBuild_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\roosBuild.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\roosBuild.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\roosBuild.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\roosBuild.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\roosBuild.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\roosBuild\obj\Debug\roosBuild.pdb

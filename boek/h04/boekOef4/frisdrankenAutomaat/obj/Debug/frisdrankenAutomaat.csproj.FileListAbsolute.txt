@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\bin\Debug\frisdrankenAutomaat.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\bin\Debug\frisdrankenAutomaat.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\bin\Debug\frisdrankenAutomaat.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\frisdrankenAutomaat\obj\Debug\frisdrankenAutomaat.pdb

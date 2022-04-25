@@ -1,0 +1,20 @@
+﻿<Window x:Class="bankrekening.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:bankrekening"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Het beginsaldo:" HorizontalAlignment="Left" Margin="55,76,0,0" VerticalAlignment="Top" Width="116"/>
+        <TextBox x:Name="txtBeginSaldo" HorizontalAlignment="Left" Height="23" Margin="176,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label1" Content="Het aantal jaren:" HorizontalAlignment="Left" Margin="55,130,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.816,-0.029" Width="116"/>
+        <TextBox x:Name="txtAantaalYaren" HorizontalAlignment="Left" Height="23" Margin="176,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label2" Content="De rente per yaar" HorizontalAlignment="Left" Margin="55,180,0,0" VerticalAlignment="Top" Width="116"/>
+        <TextBox x:Name="txtRente" HorizontalAlignment="Left" Height="23" Margin="176,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnBerekenen" Content="Berekenen" HorizontalAlignment="Left" Margin="200,240,0,0" VerticalAlignment="Top" Width="96" Foreground="#FF0E0707" BorderBrush="Black" Background="#FF5BE9ED" Click="btnBerekenen_Click"/>
+        <Label x:Name="lblResult" Content="" HorizontalAlignment="Left" Margin="71,349,0,0" VerticalAlignment="Top" Width="225"/>
+
+    </Grid>
+</Window>

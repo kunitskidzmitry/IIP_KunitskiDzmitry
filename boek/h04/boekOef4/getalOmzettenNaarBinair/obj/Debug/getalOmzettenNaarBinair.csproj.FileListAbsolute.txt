@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\bin\Debug\getalOmzettenNaarBinair.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\bin\Debug\getalOmzettenNaarBinair.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\bin\Debug\getalOmzettenNaarBinair.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boek\h04\boekOef4\getalOmzettenNaarBinair\obj\Debug\getalOmzettenNaarBinair.pdb

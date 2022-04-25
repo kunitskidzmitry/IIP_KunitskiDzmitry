@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\bin\Debug\regenVal.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\bin\Debug\regenVal.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\bin\Debug\regenVal.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\regenVal\obj\Debug\regenVal.csproj.AssemblyReference.cache

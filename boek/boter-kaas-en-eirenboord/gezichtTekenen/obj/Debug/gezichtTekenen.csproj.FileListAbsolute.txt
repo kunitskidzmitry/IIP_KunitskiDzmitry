@@ -1,0 +1,15 @@
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\bin\Debug\gezichtTekenen.exe.config
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\bin\Debug\gezichtTekenen.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\bin\Debug\gezichtTekenen.pdb
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen.csproj.AssemblyReference.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\App.g.cs
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen_MarkupCompile.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen_MarkupCompile.lref
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\MainWindow.baml
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen.g.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen.Properties.Resources.resources
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen.csproj.GenerateResource.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen.csproj.CoreCompileInputs.cache
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen.exe
+C:\Users\dima3\source\repos\kunitskidzmitry\IIP_KunitskiDzmitry\boekOef3\boter-kaas-en-eirenboord\gezichtTekenen\obj\Debug\gezichtTekenen.pdb

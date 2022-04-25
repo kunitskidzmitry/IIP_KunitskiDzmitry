@@ -1,0 +1,15 @@
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\bin\Debug\gokSpeel.exe.config
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\bin\Debug\gokSpeel.exe
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\bin\Debug\gokSpeel.pdb
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel.csproj.AssemblyReference.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\MainWindow.g.cs
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\App.g.cs
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel_MarkupCompile.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel_MarkupCompile.lref
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\MainWindow.baml
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel.g.resources
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel.Properties.Resources.resources
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel.csproj.GenerateResource.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel.csproj.CoreCompileInputs.cache
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel.exe
+C:\Users\dima3\Source\Repos\kunitskidzmitry\IIP_KunitskiDzmitry\SlnLes02\gokSpeel\obj\Debug\gokSpeel.pdb
